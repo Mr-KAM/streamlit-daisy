@@ -1,0 +1,1 @@
+pip install pew && pew new streamlit-daisy && pew workon streamlit-daisy && pip install requirements.txt
