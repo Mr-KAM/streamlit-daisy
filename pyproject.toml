@@ -1,8 +1,9 @@
 [project]
-name = "myminixform"
+name = "streamlit-daisy"
 version = "1.0.0"
 dependencies = [
     'streamlit', 
+    'streamlit-bridge',
 ]
 requires-python = ">=3.6"
 authors = [
